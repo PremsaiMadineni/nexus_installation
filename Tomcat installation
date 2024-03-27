@@ -1,0 +1,15 @@
+sudo yum update -y
+
+sudo yum install java-11-amazon-corretto-devel -y
+
+sudo -i
+
+cd /opt/
+
+wget tomcat url
+    unzip tomcat ( tar -xvzf tomcat foldr)
+
+cd tomcat/
+ls cd bin
+
+sh startup
